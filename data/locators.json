@@ -1,0 +1,20 @@
+{
+  "home_page": {
+    "accept_button": "button.btn.btn-brand.btn-block.mb-3",
+    "chat_input_box": "div.expando-textarea.chat-input-question.ask-input",
+    "language_button": "button[onclick*=\"changeLanguage\"]"
+  },
+  "chat_widget": {
+    "widget_container": "div.expando-textarea.chat-input-question.ask-input",
+    "input_field": "div.expando-textarea.chat-input-question.ask-input",
+    "send_button": ".chat-send-btn",
+    "message_container": ".chat-msg-history.scroll-container",
+    "new_session_button": "chat-new-session-btn",
+    "ai_message": "div.chat-item.chatbot.chat-message-in.ltr:last-of-type",
+    "ai_message_rtl": "div.chat-item.chatbot.chat-message-in.rtl:last-of-type",
+    "loading_spinner": "div.chat-loading-div.chat-item.chatbot",
+    "error_message": ".swal2-html-container",
+    "ok_button": ".swal2-confirm",
+    "captcha_blocker": "iframe[src*='captcha']"
+  }
+}
